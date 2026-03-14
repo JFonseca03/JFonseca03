@@ -10,8 +10,8 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=JFonseca03&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="200cm" src="https://nirzak-streak-stats.vercel.app/?user=JFonseca03&theme=default_repocard&hide_border=false"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JFonseca03&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://nirzak-streak-stats.vercel.app/?user=JFonseca03&theme=default_repocard&hide_border=false"/>
   <br/>
   <!-- <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFonseca03&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> -->
 </div>
