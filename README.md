@@ -12,7 +12,9 @@
 <div align="center">
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=JFonseca03&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="160cm" src="https://nirzak-streak-stats.vercel.app/?user=JFonseca03&theme=github_dark_dimmed&hide_border=false"/>
-  <!-- <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFonseca03&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> -->
+  <br/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFonseca03&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="160cm" src="https://github-readme-activity-graph.vercel.app/graph?username=JFonseca03&bg_color=272a33&color=4481fa&line=4481f9&point=2ac1c7&area=true&hide_border=false&title_color=4481fa"/>
 </div>
 
 # 💻 Tech Stack
