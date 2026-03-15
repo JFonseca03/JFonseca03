@@ -8,15 +8,6 @@
 
 ##
 
-# 📊 GitHub Stats
-<div align="center">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=JFonseca03&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="160cm" src="https://nirzak-streak-stats.vercel.app/?user=JFonseca03&theme=github_dark_dimmed&hide_border=false"/>
-  <br/>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFonseca03&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  <img height="165cm" src="https://github-readme-activity-graph.vercel.app/graph?username=JFonseca03&bg_color=272a33&color=4481fa&line=4481f9&point=2ac1c7&area=true&hide_border=false&title_color=4481fa"/>
-</div>
-
 # 💻 Tech Stack
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -41,6 +32,15 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+# 📊 GitHub Stats
+<div align="center">
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=JFonseca03&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="160cm" src="https://nirzak-streak-stats.vercel.app/?user=JFonseca03&theme=github_dark_dimmed&hide_border=false"/>
+  <br/>
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFonseca03&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="165cm" src="https://github-readme-activity-graph.vercel.app/graph?username=JFonseca03&bg_color=272a33&color=4481fa&line=4481f9&point=2ac1c7&area=true&hide_border=false&title_color=4481fa"/>
+</div>
 
 ## ✍️  Quote
 
